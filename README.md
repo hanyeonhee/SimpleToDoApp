@@ -29,11 +29,7 @@ Insert gif or link to demo
 
 ## :fireworks: Screenshots
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-07-29 at 00 40 59](https://user-images.githubusercontent.com/33242880/181584586-1fd332d5-3062-42b9-b6a6-d472297e8f9a.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-07-29 at 00 44 01](https://user-images.githubusercontent.com/33242880/181584610-a1bf25d5-8465-489d-b9ff-166d28189c98.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-07-29 at 00 44 37](https://user-images.githubusercontent.com/33242880/181584628-b6e21630-85c8-43ae-b275-68bc5026e34f.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-07-29 at 00 44 42](https://user-images.githubusercontent.com/33242880/181584634-bb51e92d-6c46-48f0-b60a-d80369ef4b5e.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-07-29 at 00 48 04](https://user-images.githubusercontent.com/33242880/181584639-53833480-4caf-401a-82d3-161b13466a14.png)
+<img width="1463" alt="스크린샷 2022-07-29 오전 1 09 19" src="https://user-images.githubusercontent.com/33242880/181586116-8a7d054c-fa95-4cce-a3b9-e6e93c0b091e.png">
 
 
 ## :sparkles: Skills & Tech Stack
