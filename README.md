@@ -2,7 +2,7 @@
 An app that allows you to easily swipe left and right and manage what you need to do
 
 
-## Screenshots
+## Screenshot
 
 <img width="1463" alt="스크린샷 2022-07-29 오전 1 09 19" src="https://user-images.githubusercontent.com/33242880/181586116-8a7d054c-fa95-4cce-a3b9-e6e93c0b091e.png">
 
